@@ -1,0 +1,26 @@
+
+.container {
+    margin: 10% auto;
+    text-align: center;
+}
+
+input {
+    width: 20%; 
+	margin-bottom: 10px; 
+	background-color: #fff;
+	padding: 10px;
+	font-size: 13px;
+	color: #000;
+	border: 1px solid black;
+	border-radius: 4px;
+}
+
+button {
+    width: 10%; 
+    padding: 10px;
+    background-color: #000;
+    color: #fff;
+    border-radius: 10px;
+    font-size: 15px;
+    border: 1px solid grey;
+}
